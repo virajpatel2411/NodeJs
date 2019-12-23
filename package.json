@@ -1,0 +1,19 @@
+{
+  "name": "first-lec-calc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/virajpatel2411/NodeJs.git"
+  },
+  "author": "Viraj Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/virajpatel2411/NodeJs/issues"
+  },
+  "homepage": "https://github.com/virajpatel2411/NodeJs#readme"
+}
